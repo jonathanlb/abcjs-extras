@@ -1,0 +1,15 @@
+{
+  "name": "abc-js-extras",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "abcjs": "0.0.1"
+  },
+  "devDependencies": {
+    "abcjs": "0.0.1",
+    "jasmine": "^2.6.0",
+    "jasmine-node": "^1.14.5"
+  }
+}
